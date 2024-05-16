@@ -1,4 +1,4 @@
-# compozent2
+# Compozent Task 2
 # Hangman Game
 
 This repository contains a simple text-based implementation of the popular game Hangman, written in C++.
